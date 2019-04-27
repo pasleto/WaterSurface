@@ -1,7 +1,7 @@
 # Water Surface
 
 [![GitHub Release Date](https://img.shields.io/github/release-date/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/)
-[![GitHub release](https://img.shields.io/github/release/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/)
+[![GitHub release](https://img.shields.io/github/release/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/latest)
 [![GitHub last commit](https://img.shields.io/github/last-commit/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/commits/)
 [![GitHub top language](https://img.shields.io/github/languages/top/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/tree/master/source_code/)
 
