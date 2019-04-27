@@ -2,7 +2,7 @@
 
 [![GitHub Release Date](https://img.shields.io/github/release-date/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/)
 [![GitHub release](https://img.shields.io/github/release/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/)
-![GitHub last commit](https://img.shields.io/github/last-commit/pasleto/WaterSurface.svg)
+[![GitHub last commit](https://img.shields.io/github/last-commit/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/commits/master)
 
 Author: Tomáš Pásler - github.com/pasleto
 
