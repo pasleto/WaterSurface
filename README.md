@@ -1,5 +1,7 @@
 # Water Surface
 
+[![GitHub release]](https://github.com/pasleto/WaterSurface/releases/)
+
 Author: Tomáš Pásler - github.com/pasleto
 
 Water surface simulation using **Java and Java OpenGL Library (JOGL)**.
