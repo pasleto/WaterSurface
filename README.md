@@ -1,5 +1,6 @@
 # Water Surface
 
+![GitHub Release Date](https://img.shields.io/github/release-date/pasleto/WaterSurface.svg)
 [![GitHub release](https://img.shields.io/github/release/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/)
 
 Author: Tomáš Pásler - github.com/pasleto
