@@ -4,6 +4,7 @@
 [![GitHub release](https://img.shields.io/github/release/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/latest)
 [![GitHub last commit](https://img.shields.io/github/last-commit/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/commits)
 [![GitHub top language](https://img.shields.io/github/languages/top/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/tree/master/source_code)
+[![GitHub repo size](https://img.shields.io/github/repo-size/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface)
 [![Custom badge](https://img.shields.io/badge/type-school%20project-blue.svg)](https://www.uhk.cz)
 
 Author: Tomáš Pásler - github.com/pasleto
