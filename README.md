@@ -1,5 +1,7 @@
 # Water Surface
 
+---
+
 [![GitHub Release Date](https://img.shields.io/github/release-date/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/tag/v1.0.0)
 [![GitHub release](https://img.shields.io/github/release/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/latest)
 [![GitHub last commit](https://img.shields.io/github/last-commit/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/commits)
@@ -15,10 +17,14 @@ This is a project for Computer Graphics Class II at University of
 Hradec Králové - Faculty of Informatics and Management.
 It's written in **Java** and developed in **IntelliJ IDEA**.
 
+---
+
 ## Used Libraries
 * `JOGL` for OpenGL.
 * `JOGAMP` for OpenGL.
 * `GLUEGEN` for OpenGL.
+
+---
 
 ## Result
 **Some pictures here:**
