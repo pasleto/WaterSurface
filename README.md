@@ -36,3 +36,5 @@ It's written in **Java** and developed in **IntelliJ IDEA**.
 ![](/screenshots/screenshot3.png)
 
 ![](/screenshots/screenshot4.png)
+
+---
