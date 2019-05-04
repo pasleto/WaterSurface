@@ -1,6 +1,6 @@
-# Water Surface
-
 ---
+
+# Water Surface
 
 [![GitHub Release Date](https://img.shields.io/github/release-date/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/tag/v1.0.0)
 [![GitHub release](https://img.shields.io/github/release/pasleto/WaterSurface.svg)](https://github.com/pasleto/WaterSurface/releases/latest)
